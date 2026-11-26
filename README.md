@@ -256,6 +256,7 @@ Dalam pengerjaan proyek ini, saya menggunakan ChatGPT sebagai alat bantu untuk m
 Pemeriksaan hasil dilakukan dengan menjalankan kode pada Google Colab, memeriksa output yang dihasilkan, dan mempelajari fungsi serta tujuan setiap tahapan pengerjaan.
 
 Penggunaan AI bertujuan membantu proses pembelajaran dan tidak menggantikan tanggung jawab saya dalam memahami serta menjelaskan hasil proyek
+
 ---
 
 <p align="center">
