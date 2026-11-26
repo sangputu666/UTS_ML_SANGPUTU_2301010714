@@ -249,7 +249,7 @@ Melalui proyek ini, diharapkan dapat diketahui faktor-faktor yang berhubungan de
 
 Proyek ini dibuat untuk keperluan akademik sebagai pemenuhan tugas Ujian Tengah Semester (UTS) Mata Kuliah Machine Learning.
 
-## 📄 pernyataan penggunaan AI
+## 📄 Pernyataan penggunaan AI
 
 Dalam pengerjaan proyek ini, saya menggunakan ChatGPT sebagai alat bantu untuk memahami konsep Machine Learning, menyusun tahapan pengerjaan, membantu penulisan kode Python, memahami hasil evaluasi model, serta mempersiapkan materi presentasi.
 
